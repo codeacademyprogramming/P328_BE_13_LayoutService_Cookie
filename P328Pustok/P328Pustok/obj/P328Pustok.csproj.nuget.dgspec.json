@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\12. 08-05-2023\\P328Pustok\\P328Pustok\\P328Pustok.csproj": {}
+    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\13. 08-05-2023\\P328_BE_13_LayoutService_Cookie\\P328Pustok\\P328Pustok\\P328Pustok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\12. 08-05-2023\\P328Pustok\\P328Pustok\\P328Pustok.csproj": {
+    "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\13. 08-05-2023\\P328_BE_13_LayoutService_Cookie\\P328Pustok\\P328Pustok\\P328Pustok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\12. 08-05-2023\\P328Pustok\\P328Pustok\\P328Pustok.csproj",
+        "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\13. 08-05-2023\\P328_BE_13_LayoutService_Cookie\\P328Pustok\\P328Pustok\\P328Pustok.csproj",
         "projectName": "P328Pustok",
-        "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\12. 08-05-2023\\P328Pustok\\P328Pustok\\P328Pustok.csproj",
+        "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\13. 08-05-2023\\P328_BE_13_LayoutService_Cookie\\P328Pustok\\P328Pustok\\P328Pustok.csproj",
         "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\12. 08-05-2023\\P328Pustok\\P328Pustok\\obj\\",
+        "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P328\\13. 08-05-2023\\P328_BE_13_LayoutService_Cookie\\P328Pustok\\P328Pustok\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",

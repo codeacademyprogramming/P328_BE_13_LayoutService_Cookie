@@ -3,7 +3,7 @@ using P328Pustok.DAL;
 using P328Pustok.Services;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//comment
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<PustokContext>(opt =>
 {
